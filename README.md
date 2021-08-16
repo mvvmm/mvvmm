@@ -18,7 +18,7 @@ An open source web application tool that empowers lighting professionals to sele
 
 A place to author, store, and access light and health documentation from the Light and Health Research Cetner at Mount Sinai.
 
-![Light and Health Docs Promo Img](img/docs.png)
+![Light and Health Docs Promo Img](img/docs-promo.png)
 
 - Website: ![docs.light-health.org/](https://docs.light-health.org/)
 - Github: ![Light-and-Health-Research-Center/docs](https://github.com/Light-and-Health-Research-Center/docs)
