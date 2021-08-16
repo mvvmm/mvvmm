@@ -2,6 +2,11 @@
 
 #### I specialize in building performant, scalable, and maintainable web applications. I also love making generative art!
 
+- 📍 Brooklyn, NY
+- 📷 ![instagram.com/insta.mvm/](instagram.com/insta.mvm/)
+- 📧 ![root.mvm@gmail.com](mailto:root.mvm@gmail.com)
+- 📧 michael.morrison@mountsinai.org
+
 ## Currently I'm working on ...
 
 ### CS Calculator 2.0
