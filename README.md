@@ -37,6 +37,6 @@ An e-commerce storefront and archive, with a CMS backend for Masahiro LaMarsh, a
 
 Currently working on a live-coding application as part of my website where anyone can edit my generative art code in real time.
 
-![Playground Promo](img/playground-promo.png)
+![Playground Promo](img/playground-promo.gif)
 
 - GitHub: ![/mvvmm/mvm.dev](https://github.com/mvvmm/mvm.dev)
