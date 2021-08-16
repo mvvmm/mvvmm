@@ -16,7 +16,7 @@ An open source web application tool that empowers lighting professionals to sele
 
 ### Light and Health Docs
 
-An open source website to author, store, and access light and health documentation from the Light and Health Research Center at Mount Sinai.
+An open source web application to author, store, and access light and health documentation from the Light and Health Research Center at Mount Sinai.
 
 ![Light and Health Docs Promo Img](img/docs-promo.png)
 
