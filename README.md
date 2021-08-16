@@ -13,3 +13,12 @@ An open source web application tool that empowers lighting professionals to sele
 - Website: ![cscalc.light-health.org](https://cscalc.light-health.org)
 - Github: ![Light-and-Health-Research-Center/cscalc](https://github.com/Light-and-Health-Research-Center/cscalc)
 - Documentation: ![docs.light-health.org/cscalc](https://docs.light-health.org/cscalc)
+
+### Light and Health Docs
+
+An open source web application to author, store, and access light and health documentation from the Light and Health Research Center at Mount Sinai.
+
+![Light and Health Docs Promo Img](img/docs-promo.png)
+
+- Website: ![docs.light-health.org/](https://docs.light-health.org/)
+- Github: ![Light-and-Health-Research-Center/docs](https://github.com/Light-and-Health-Research-Center/docs)
