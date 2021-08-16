@@ -8,7 +8,7 @@
 
 An open source web application tool that empowers lighting professionals to select light sources and light levels that will increase the potential for circadian-effective light exposure in architectural spaces, utilizing the CS metric. 
 
-![CS Calculator 2.0 Promo Img](img/cs-calc-promi.png)
+![CS Calculator 2.0 Promo Img](img/cs-calc-promo.png)
 
 - Website: ![cscalc.light-health.org](https://cscalc.light-health.org)
 - Github: ![Light-and-Health-Research-Center/cscalc](https://github.com/Light-and-Health-Research-Center/cscalc)
