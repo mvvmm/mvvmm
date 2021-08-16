@@ -1,6 +1,6 @@
 # Hi, I'm vance (mvm) 👋
 
-#### I specialize in building performant, scalable, and maintainable web applications. I also love making generative art!
+#### I specialize in building performant, scalable, and maintainable web applications. I also make generative art!
 
 - 📍 Brooklyn, NY
 - 📷 [instagram.com/insta.mvm/](https://www.instagram.com/insta.mvm/)
