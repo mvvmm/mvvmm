@@ -9,6 +9,15 @@
 
 ## Currently I'm working on ...
 
+### Light and Health Publications
+
+A collection of publications written by researchers at the Light and Health Research Centet at Mount Sinai, packaged into a web application with helpful sorting and seraching features.
+
+![Light and Health Publications Promo](img/publications-promo.png)
+
+- Website: [publications.light-health.org](https://publications.light-health.org/)
+- GitHub: [/Light-and-Health-Research-Center/publications](https://github.com/Light-and-Health-Research-Center/publications)
+
 ### Light and Health Docs
 
 An open source web application to author, store, and access light and health documentation from the Light and Health Research Center at Mount Sinai.
