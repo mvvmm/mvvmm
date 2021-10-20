@@ -3,7 +3,6 @@
 #### I specialize in building performant, scalable, and maintainable web applications. I also love generative and interactive web art!
 
 - 📍 Brooklyn, NY
-- 📷 [instagram.com/insta.mvm/](https://www.instagram.com/insta.mvm/)
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
 - 📧 [michael.morrison@mountsinai.org](mailto:michael.morrison@mountsinai.org)
 
