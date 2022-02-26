@@ -14,7 +14,7 @@ Creator marketing tech
 
 ### Masahiro LaMarsh Corp.
 
-An e-commerce storefront and archive, with a CMS backend for Masahiro LaMarsh, a legendary NYC jeweler.
+An shopify e-commerce storefront for Masahiro LaMarsh, a legendary NYC jeweler.
 
 - Website: [masahirolamarsh.com](https://www.masahirolamarsh.com/)
 - GitHub: [/mvvmm/masahirolamarsh.com](https://github.com/mvvmm/masahirolamarsh.com)
