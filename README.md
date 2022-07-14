@@ -1,8 +1,7 @@
 # Hi, I'm vance (mvm) 👋
 
-- 📍 DFW, Texas
+- 📍 New York, New York
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
-- 📧 [vance@joinstatus.com](mailto:vance@joinstatus.com)
 
 ## Currently Working On
 
