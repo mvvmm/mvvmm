@@ -1,6 +1,6 @@
 # Hi, I'm vance (mvm) 👋
 
-- 📍 New York, New York
+- 📍 Staten Island, NY
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
 
 ## Currently Working On
