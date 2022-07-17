@@ -11,23 +11,23 @@ Creator marketing tech
 
 - Website: [joinstatus.com](https://www.joinstatus.com/)
 
-### Masahiro LaMarsh Corp.
+### Personal Projects
 
-An shopify e-commerce storefront for Masahiro LaMarsh, a legendary NYC jeweler.
-
-- Website: [masahirolamarsh.com](https://www.masahirolamarsh.com/)
-- GitHub: [/mvvmm/masahirolamarsh.com](https://github.com/mvvmm/masahirolamarsh.com)
-- Instagram: [/hirolamarsh](https://www.instagram.com/hirolamarsh)
-
-### Personal Website
-
-Currently working on a live-coding application as part of my website where anyone can edit my generative art code in real time.
+I'm constantly playing around with different technologies involving things like generative art, machine learning, and just whatever else is interesting to me at the moment. For example, this live-coding application that allows users to edit generative art code in real time on the web. I don't currently have any plans to make these things public or to compile them into a portfolio, as I prefer to keep things to myself unless they are fully fleshed out products, but maybe one day!
 
 ![Playground Promo](img/playground-promo.gif)
 
 - GitHub: [/mvvmm/mvm.dev](https://github.com/mvvmm/mvm.dev)
 
 ## Previous Works
+
+### Masahiro LaMarsh Corp.
+
+An shopify e-commerce storefront for Masahiro LaMarsh, a legendary NYC jeweler. Put on hold for now.
+
+- Website: [masahirolamarsh.com](https://www.masahirolamarsh.com/)
+- GitHub: [/mvvmm/masahirolamarsh.com](https://github.com/mvvmm/masahirolamarsh.com)
+- Instagram: [/hirolamarsh](https://www.instagram.com/hirolamarsh)
 
 ### Light and Health Publications
 
