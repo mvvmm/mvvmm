@@ -25,7 +25,6 @@ Creator marketing tech
 
 An shopify e-commerce storefront for Masahiro LaMarsh, a legendary NYC jeweler. Put on hold for now.
 
-- Website: [masahirolamarsh.com](https://www.masahirolamarsh.com/)
 - GitHub: [/mvvmm/masahirolamarsh.com](https://github.com/mvvmm/masahirolamarsh.com)
 - Instagram: [/hirolamarsh](https://www.instagram.com/hirolamarsh)
 
