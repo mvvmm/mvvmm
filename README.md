@@ -1,6 +1,6 @@
 # Hi, I'm vance (mvm) 👋
 
-- 📍 Staten Island, NY
+- 📍 Staten Island, NY (moving to DFW, TX soon)
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
 
 ## Currently Working On
