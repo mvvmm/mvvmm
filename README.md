@@ -1,7 +1,8 @@
 # Hi, I'm vance (mvm) 👋
 
-- 📍 Staten Island, NY (moving to DFW, TX soon)
+- 📍 DFW, TX
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
+- 📧 [vance.morrison@cision.com](mailto:vance.morrison@cision.com)
 
 ## Currently Working On
 
