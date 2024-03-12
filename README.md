@@ -2,7 +2,7 @@
 
 - 📍 DFW, TX
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
-- 📧 [vance.morrison@cision.com](mailto:vance.morrison@cision.com)
+- 📧 [vance.morrison@proservice.com](mailto:vance.morrison@proservice.com)
 
 ## Currently Working On
 
