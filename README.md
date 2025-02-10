@@ -14,7 +14,7 @@ Building HR infrastrcutre and experiences.
 
 ### Personal Projects
 
-I'm constantly playing around with different technologies involving things like generative art, machine learning, and just whatever else is interesting to me at the moment. For example, this live-coding application that allows users to edit generative art code in real time on the web. I don't currently have any plans to make these things public or to compile them into a portfolio, as I prefer to keep things to myself unless they are fully fleshed out products, but maybe one day!
+I'm constantly playing around with different technologies involving things like generative art, machine learning, web games, and just whatever else is interesting to me at the moment. For example, this live-coding application that allows users to edit generative art code in real time on the web. I don't currently have any plans to make these things public or to compile them into a portfolio, as I prefer to keep things to myself unless they are fully fleshed out products, but maybe one day!
 
 ![Playground Promo](img/playground-promo.gif)
 
