@@ -21,11 +21,11 @@ I'm constantly playing around with different technologies involving things like 
 
 ## Previous Works
 
-### Cision - Connectively
+### Cision - HARO / Connectively
 
-PR marketing tech (since reached EOL)
+PR marketing tech (later bought by featured.com)
 
-- Website: [Connectively](https://www.connectively.us/)
+- Website: [Featured](https://featured.com/)
 
 ### Statusphere - Web app
 
