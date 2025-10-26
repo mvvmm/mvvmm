@@ -15,6 +15,7 @@ Seamless cross-platform clipboard synchronization. Move text, images, and files 
 
 - Web: [omnibin](https://www.omnib.in/)
 - iOS app: [App Store](https://apps.apple.com/us/app/omnibin/id6752793228)
+- GitHub: [/mvvmm/omnibin](https://github.com/mvvmm/omnibin)
 
 ### Personal Projects
 
