@@ -3,8 +3,6 @@
 - 📍 DFW, TX
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
 
-(PS my recent work has been on gitlab)
-
 ## Currently Working On
 
 ### omnibin
