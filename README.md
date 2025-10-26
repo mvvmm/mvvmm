@@ -7,21 +7,33 @@
 
 ## Currently Working On
 
-### Proservice Hawaii
+### omnibin
 
-Building HR infrastrcutre and experiences.
+Copy. Paste. Anywhere. 
 
-- Website: [ProService](https://proservice.com/)
+Seamless cross-platform clipboard synchronization. Move text, images, and files between devices with ease. One click copy and paste across all your devices.
+
+![omnibin promo](img/omnibin-promo.png)
+
+- Web: [omnibin](https://www.omnib.in/)
+- iOS app: [App Store](https://apps.apple.com/us/app/omnibin/id6752793228)
 
 ### Personal Projects
 
-I'm constantly playing around with different technologies involving things like generative art, machine learning, web games, and just whatever else is interesting to me at the moment. For example, this live-coding application that allows users to edit generative art code in real time on the web. I don't currently have any plans to make these things public or to compile them into a portfolio, as I prefer to keep things to myself unless they are fully fleshed out products, but maybe one day!
+I'm constantly playing around with different technologies involving things like generative art, machine learning, web games, and just whatever else is interesting to me at the moment. For example, this live-coding application that allows users to edit generative art code in real time on the web!
 
 ![Playground Promo](img/playground-promo.gif)
 
-- GitHub: [/mvvmm/mvm.dev](https://github.com/mvvmm/mvm.dev)
+- GitHub: [/mvvmm/mvvmm.com](https://github.com/mvvmm/mvvmm.com)
+- Website: [mvvmm.com](https://www.mvvmm.com/)
 
 ## Previous Works
+
+### Proservice Hawaii
+
+Building HR infrastructure and experiences.
+
+- Website: [ProService](https://proservice.com/)
 
 ### Cision - HARO / Connectively
 
