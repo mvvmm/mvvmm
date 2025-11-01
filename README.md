@@ -17,9 +17,9 @@ Seamless cross-platform clipboard synchronization. Move text, images, and files 
 - iOS app: [App Store](https://apps.apple.com/us/app/omnibin/id6752793228)
 - GitHub: [/mvvmm/omnibin](https://github.com/mvvmm/omnibin)
 
-### Personal Projects
+### Interactive generative art playground
 
-I'm constantly playing around with different technologies involving things like generative art, machine learning, web games, and just whatever else is interesting to me at the moment. For example, this live-coding application that allows users to edit generative art code in real time on the web!
+Browse a gallery of interactive generative art experiences and edit them in real time!
 
 ![Playground Promo](img/playground-promo.gif)
 
