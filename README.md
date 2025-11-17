@@ -2,6 +2,7 @@
 
 - 📍 DFW, TX
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
+- 🌐 [vance.page](https://vance.page)
 
 ## Currently Working On
 
