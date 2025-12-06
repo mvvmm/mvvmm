@@ -6,6 +6,8 @@
 
 ## Currently Working On
 
+_**Note:**_ _Recent professional work was on gitlab_
+
 ### omnibin
 
 Copy. Paste. Anywhere. 
