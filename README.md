@@ -6,11 +6,26 @@
 
 ## Currently Working On
 
-_**Note:**_ _Recent professional work was on gitlab_
+### Cloudflare
+
+<p align="center"><img src="img/cloudflare-cloud.png" width="200" /></p>
+
+Building and maintaining Cloudflare's public-facing static sites, including [developers.cloudflare.com](https://developers.cloudflare.com), [blog.cloudflare.com](https://blog.cloudflare.com), [research.cloudflare.com](https://research.cloudflare.com), and more.
+
+## Previous Works
+
+### IMAX near me
+
+Finding information about IMAX theatre specifications is notoriously difficult. An interactive map of IMAX theatres worldwide, filterable by projector type — 15/70mm film, GT Laser, laser, and dome — so you can find a genuinely great IMAX experience near you. Only venues with premium projectors are included.
+
+![IMAX Near Me preview](img/IMAX-near-me-preview.png)
+
+- Web: [imaxnearme.com](https://imaxnearme.com/)
+- GitHub: [/mvvmm/imax-near-me](https://github.com/mvvmm/imax-near-me)
 
 ### omnibin
 
-Copy. Paste. Anywhere. 
+Copy. Paste. Anywhere.
 
 Seamless cross-platform clipboard synchronization. Move text, images, and files between devices with ease. One click copy and paste across all your devices.
 
@@ -28,8 +43,6 @@ Browse a gallery of interactive generative art experiences and edit them in real
 
 - GitHub: [/mvvmm/mvvmm.com](https://github.com/mvvmm/mvvmm.com)
 - Website: [mvvmm.com](https://www.mvvmm.com/)
-
-## Previous Works
 
 ### Proservice Hawaii
 
@@ -58,7 +71,7 @@ An shopify e-commerce storefront for Masahiro LaMarsh, a legendary NYC jeweler. 
 
 ### Light and Health Publications
 
-A collection of publications written by researchers at the Light and Health Research Centet at Mount Sinai, packaged into a web application with helpful sorting and seraching features.
+A collection of publications written by researchers at the Light and Health Research Center at Mount Sinai, packaged into a web application with helpful sorting and searching features.
 
 - Website: [publications.light-health.org](https://publications.light-health.org/)
 - GitHub: [/Light-and-Health-Research-Center/publications](https://github.com/Light-and-Health-Research-Center/publications)
@@ -72,7 +85,7 @@ An open source web application to author, store, and access light and health doc
 
 ### CS Calculator 2.0
 
-An open source web application tool that empowers lighting professionals to select light sources and light levels that will increase the potential for circadian-effective light exposure in architectural spaces, utilizing the CS metric. 
+An open source web application tool that empowers lighting professionals to select light sources and light levels that will increase the potential for circadian-effective light exposure in architectural spaces, utilizing the CS metric.
 
 - Website: [cscalc.light-health.org](https://cscalc.light-health.org)
 - GitHub: [/Light-and-Health-Research-Center/cscalc](https://github.com/Light-and-Health-Research-Center/cscalc)
