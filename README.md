@@ -12,7 +12,7 @@
 
 Building and maintaining Cloudflare's public-facing static sites, including [developers.cloudflare.com](https://developers.cloudflare.com), [blog.cloudflare.com](https://blog.cloudflare.com), [research.cloudflare.com](https://research.cloudflare.com), and more.
 
-## Previous Works
+## Previous Stuff
 
 ### IMAX near me
 
