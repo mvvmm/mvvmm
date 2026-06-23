@@ -12,6 +12,15 @@
 
 Building and maintaining Cloudflare's public-facing static sites, including [developers.cloudflare.com](https://developers.cloudflare.com), [blog.cloudflare.com](https://blog.cloudflare.com), [research.cloudflare.com](https://research.cloudflare.com), and more.
 
+### Fibole
+
+A daily fact-spotting game. Each day has three rounds — you see 4 statements about a mystery subject (3 true facts, 1 fib) and have to name the subject and identify the lie. No accounts, no tracking; all state lives in your browser.
+
+![Fibole preview](img/fibole-preiew.webp)
+
+- Web: [fibole.com](https://fibole.com)
+- GitHub: [/mvvmm/fibole](https://github.com/mvvmm/fibole)
+
 ## Previous Stuff
 
 ### IMAX near me
