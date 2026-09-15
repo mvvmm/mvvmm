@@ -1,6 +1,6 @@
 # Hi, I'm vance (mvm) 👋
 
-- 📍 DFW, TX
+- 📍 Austin, TX
 - 📧 [root.mvm@gmail.com](mailto:root.mvm@gmail.com)
 - 🌐 [vance.page](https://vance.page)
 
